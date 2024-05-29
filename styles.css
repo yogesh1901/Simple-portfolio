@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('background.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    color: #f8f9fa;
+}
+
+.navbar {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.nav-link {
+    color: #f8f9fa !important;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    color: #ffd700 !important;
+}
+
+.jumbotron {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 2rem 1rem;
+    border-radius: 0.5rem;
+}
+
+h2 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    color: #ffd700;
+}
+
+.list-group-item {
+    background-color: rgba(0, 0, 0, 0.7);
+    border: none;
+    color: #f8f9fa;
+    margin-bottom: 1rem;
+}
+
+a {
+    color: #ffd700;
+}
+
+.container {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 2rem;
+    border-radius: 0.5rem;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: #f8f9fa;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
